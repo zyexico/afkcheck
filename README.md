@@ -1,0 +1,2 @@
+# afkcheck
+Ex runs cord
